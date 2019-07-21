@@ -25,6 +25,7 @@ public class NnformApplication  extends SpringBootServletInitializer{
 	
 	public static void main(String[] args) {
 		SpringApplication.run(NnformApplication.class, args);
+		
 	}
 	
 }
